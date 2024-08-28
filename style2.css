@@ -46,8 +46,15 @@ ul {
 }
 
 a {
-    border: 2px dotted red;
+
+    background-color: white;
     display: block;
+    margin: 20px auto;
+    width: 100px;
     text-align: center;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, .5);
+    font-size: larger;
+    text-transform: uppercase;
+    padding: 5px 0px;
 }
 
